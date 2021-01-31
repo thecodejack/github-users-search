@@ -1,3 +1,5 @@
+**This was done as for personal purpose. Won't be any maintainence activity on this.**
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
